@@ -1,0 +1,2 @@
+# Soft_computing_lab_assignment_2
+Soft_computing_lab_assignment_2
